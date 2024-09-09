@@ -9,7 +9,7 @@ Adapter for NEC uPD753 to convert to Intel 8080 pinout.
 ![](images/3d_b.png)
 ![](images/pcb.png)
 - 実物
-![](images/board.png)
+![](images/board.jpg)
 
 ### BOM
 |Reference          |Qty| Value          |Memo |
@@ -21,7 +21,7 @@ Adapter for NEC uPD753 to convert to Intel 8080 pinout.
 ## 動作例
 - [TangNano8080MEM](https://github.com/ryomuk/tangnano-5V/tree/main/applications/TangNano8080MEM)に載せてみたところ，問題無く動作しました．
 
-![](images/tangnano8080mem.png)
+![](images/tangnano8080mem.jpg)
 
 
 ## 関連情報
